@@ -1,5 +1,5 @@
 # Google-Dino
-A complete recreation of Google-Dino game using C# withh all original features!
+A complete recreation of Google-Dino game using C# with all original features!
 
 
 Tutorial:
