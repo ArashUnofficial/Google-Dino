@@ -1,0 +1,17 @@
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\bin\Debug\net7.0-windows\Google-Dino-Final.exe
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\bin\Debug\net7.0-windows\Google-Dino-Final.deps.json
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\bin\Debug\net7.0-windows\Google-Dino-Final.runtimeconfig.json
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\bin\Debug\net7.0-windows\Google-Dino-Final.dll
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\bin\Debug\net7.0-windows\Google-Dino-Final.pdb
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google_Dino_Final.Form1.resources
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google_Dino_Final.Properties.Resources.resources
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.csproj.GenerateResource.cache
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.AssemblyInfoInputs.cache
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.AssemblyInfo.cs
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.csproj.CoreCompileInputs.cache
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.dll
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\refint\Google-Dino-Final.dll
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.pdb
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\Google-Dino-Final.genruntimeconfig.cache
+C:\Users\Arash\OneDrive\Documents\Visual Studio 2022\Projects\School\Google-Dino-Arash-Assari111\obj\Debug\net7.0-windows\ref\Google-Dino-Final.dll
